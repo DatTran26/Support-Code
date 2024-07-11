@@ -1,6 +1,6 @@
 # **HOW  TO RENAME A FOLDER**
 
-Structs
+## **Structs**
 > **_[< DATE > - < MONTH > - < YEAR >] - < FULL NAME >_**
 
 ## **Example:**
